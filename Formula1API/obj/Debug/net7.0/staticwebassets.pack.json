@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/css/description.css",
+      "PackagePath": "staticwebassets/css/description.css"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/description.html",
+      "PackagePath": "staticwebassets/description.html"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/F1white.png",
+      "PackagePath": "staticwebassets/images/F1white.png"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/carsai.jpg",
+      "PackagePath": "staticwebassets/images/drivers/carsai.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/chalec.jpg",
+      "PackagePath": "staticwebassets/images/drivers/chalec.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/dorthe.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/dorthe.jpeg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/feralo.jpg",
+      "PackagePath": "staticwebassets/images/drivers/feralo.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/georus.jpg",
+      "PackagePath": "staticwebassets/images/drivers/georus.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/kurtnilsen.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/kurtnilsen.jpeg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/lannor.jpg",
+      "PackagePath": "staticwebassets/images/drivers/lannor.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/lewham.jpg",
+      "PackagePath": "staticwebassets/images/drivers/lewham.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/maxver.jpg",
+      "PackagePath": "staticwebassets/images/drivers/maxver.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/drivers/serper.jpg",
+      "PackagePath": "staticwebassets/images/drivers/serper.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/alphatauri.jpg",
+      "PackagePath": "staticwebassets/images/teams/alphatauri.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/alpine.jpg",
+      "PackagePath": "staticwebassets/images/teams/alpine.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/aston-martin.jpg",
+      "PackagePath": "staticwebassets/images/teams/aston-martin.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/ferrari.jpg",
+      "PackagePath": "staticwebassets/images/teams/ferrari.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/mclaren.jpg",
+      "PackagePath": "staticwebassets/images/teams/mclaren.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/mercedes.jpg",
+      "PackagePath": "staticwebassets/images/teams/mercedes.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/red-bull-racing.jpg",
+      "PackagePath": "staticwebassets/images/teams/red-bull-racing.jpg"
+    },
+    {
+      "Id": "/Users/rebecca/Documents/GitHub/Webutvikling-Eksamen/Formula1API/wwwroot/images/teams/williams.jpg",
+      "PackagePath": "staticwebassets/images/teams/williams.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formula1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formula1API.props",
+      "PackagePath": "build\\Formula1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formula1API.props",
+      "PackagePath": "buildMultiTargeting\\Formula1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formula1API.props",
+      "PackagePath": "buildTransitive\\Formula1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
